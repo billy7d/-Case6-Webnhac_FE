@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Case6-FE-master-structure"
+    }
+  },
+  "defaultProject": "Case6-FE-master-structure",
+  "cli": {
+    "analytics": "0b8fb3b0-dbb2-4760-81c1-0046ef4b5d04"
+  }
 }
